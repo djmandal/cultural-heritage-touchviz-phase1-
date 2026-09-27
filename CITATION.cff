@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite it as below and follow the Research Use License."
+title: "Cultural Heritage Touch Visualization"
+authors:
+  - family-names: "Mandal"
+    given-names: "Dipendra"
+url: "https://github.com/djmandal/cultural-heritage-touchviz-phase1-"
+type: software
